@@ -1,2 +1,1 @@
-# artBook
-artBook uygulaması
+Dediğim gibi veriyi çekememe sorunum var hocam.
